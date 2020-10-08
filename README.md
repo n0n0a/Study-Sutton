@@ -1,2 +1,2 @@
-# SuttonBartoBook
-For Excercises of "Reinforcement Leaning: An Introduction - 2020"
+# 目的
+ 「Reinforcement Learning: An Introduction-Sutton&Barto」を勉強する中で出てきた演習やコードをまとめる。
